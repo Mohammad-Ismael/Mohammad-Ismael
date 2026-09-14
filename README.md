@@ -42,7 +42,7 @@ Experienced VLSI Engineer specializing in **RISC-V processor design**, **hardwar
 **Publications:**
 1. **AUTG: An Automatic UVM-based TestBench Generator** – *ICM 2023* ([IEEE](https://ieeexplore.ieee.org/abstract/document/10378885))
 2. **SystemVerilog-SystemC TestBench Architecture for VLSI Chip Design Verification** – *VLSI-SoC 2024* ([IEEE](https://ieeexplore.ieee.org/abstract/document/10767804))
-3. **SEREPA: A Secure and Efficient RISC-V Edge Processor Architecture** – *ICCAD 2026* (under review)
+3. **SEREPA: A Secure and Efficient RISC-V Edge Processor Architecture for Sensitive Data Protection** - **HOST2026**
 
 **B.Sc. in Electrical Systems Engineering** – Birzeit University (2015–2020)  
 *Graduation Project:* Kalman Filter · IEEE Student Member
