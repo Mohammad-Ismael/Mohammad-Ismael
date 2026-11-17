@@ -3,7 +3,7 @@
 
 <p align="center">
   <a href="mailto:engmismael@outlook.com"><img src="https://img.shields.io/badge/Email-engmismael@outlook.com-blue?style=flat-square&logo=gmail"></a>
-  <a href="https://www.linkedin.com/in/engmismael-risc-v-security-design-and-verification/"><img src="https://img.shields.io/badge/LinkedIn-8.2k%20followers-0077B5?style=flat-square&logo=linkedin"></a>
+  <a href="https://www.linkedin.com/in/engmismael-risc-v-security-design-and-verification/"><img src="https://img.shields.io/badge/LinkedIn-9.8k%20followers-0077B5?style=flat-square&logo=linkedin"></a>
 </p>
 
 ---
@@ -28,6 +28,8 @@ Experienced VLSI Engineer specializing in **RISC-V processor design**, **hardwar
 
 | Project | Description | Key Metrics |
 |---------|-------------|--------------|
+| **SEREPA** | 6-Stage Secure RISC-V Processor | CVA6-Baseline + SEREPA Architecture |
+| **SeRISC** | 4-Stage Secure RISC-V Processor | Unmodified RISC-V ISA |
 | **AUTG** | Automatic UVM TestBench Generator from DUT port list | Detected all planted RTL bugs |
 | **ASCON AEAD-128 Core** | SystemVerilog crypto core + UVM verification + Synopsys DC synthesis | — |
 | **Dictionary Compression Chip** | RTL compression/decompression with error handling | Verified with UVM |
@@ -61,7 +63,6 @@ Experienced VLSI Engineer specializing in **RISC-V processor design**, **hardwar
 ## 🌐 Additional
 
 - **Languages:** Arabic (native), English (excellent), German (beginner)  
-- **Creative:** Content creation, graphic design, video editing, 2D/3D animation  
 - **Platforms:** Windows, Linux, macOS
 
 ---
