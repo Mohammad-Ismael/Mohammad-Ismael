@@ -1,5 +1,7 @@
-<h1 align="center">Salam!, I'm Mohammad Ismael</h1>
-<h3 align="center">R&D Group Leader @ Orion VLSI Technologies | Adjunct Instructor @ Birzeit University | RISC-V Security Researcher</h3>
+<h1 align="center">Salam! I'm Mohammad Ismael</h1>
+<h3 align="center">R&D Lead @ <a href="https://orionvtech.com/">Orion</a> | Adjunct Instructor @ <a href="https://www.birzeit.edu/en">Birzeit University</a> | RISC-V Security Researcher</h3>
+
+
 
 <p align="center">
   <a href="mailto:engmismael@outlook.com"><img src="https://img.shields.io/badge/Email-engmismael@outlook.com-blue?style=flat-square&logo=gmail"></a>
