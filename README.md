@@ -30,7 +30,7 @@ Experienced VLSI Engineer specializing in **RISC-V processor design**, **hardwar
 
 | Project | Description | Key Metrics |
 |---------|-------------|--------------|
-| **SEREPA** | 6-Stage Secure RISC-V Processor | CVA6-Baseline + SEREPA Architecture |
+| **SEREPA / SEEE-PARV** | 6-Stage Secure RISC-V Processor | CVA6-Baseline + SEREPA Architecture |
 | **SeRISC** | 4-Stage Secure RISC-V Processor | VeeR EL2 + Unmodified RISC-V ISA |
 | **AUTG** | Automatic UVM TestBench Generator from DUT port list | Detected all planted RTL bugs |
 | **ASCON AEAD-128 Core** | SystemVerilog crypto core + UVM verification + Synopsys DC synthesis | — |
