@@ -1,4 +1,4 @@
-<h1 align="center">👋 Salam!, I'm Mohammad Ismael</h1>
+<h1 align="center">Salam!, I'm Mohammad Ismael</h1>
 <h3 align="center">R&D Group Leader @ Orion VLSI Technologies | RISC-V Security Researcher</h3>
 
 <p align="center">
